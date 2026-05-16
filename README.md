@@ -26,7 +26,7 @@
 
 <br/>
 
-[🚀 Live Demo](#) · [📦 Download](#installation) · [🐛 Report Bug](../../issues) · [✨ Request Feature](../../issues)
+[🚀 Live Demo](#https://focus-board-dusky.vercel.app/) · [📦 Download](#installation) · [🐛 Report Bug](../../issues) · [✨ Request Feature](../../issues)
 
 <br/>
 
@@ -38,11 +38,7 @@
 
 <div align="center">
 
-| Landing Page | Kanban Board | Focus Mode |
-|:---:|:---:|:---:|
-| ![Landing](https://placehold.co/380x200/0f0c00/f5a623?text=Landing+Page&font=playfair-display) | ![Board](https://placehold.co/380x200/0f0c00/4fa3e8?text=Kanban+Board&font=playfair-display) | ![Focus](https://placehold.co/380x200/0f0c00/4caf50?text=Focus+Mode&font=playfair-display) |
-
-> **Replace the placeholders above** with real screenshots of your app before pushing to GitHub.
+![Landing](FocusBoard.png)
 
 </div>
 
@@ -86,11 +82,11 @@ A modern browser (Chrome, Firefox, Safari, Edge)
 **Option 2 — Clone the Repo**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/focusboard.git
-cd focusboard
+git clone https://github.com/rehan-qx/FocusBoard.git
+cd FocusBoard
 ```
 
-Then simply open `focusboard.html` in your browser — or serve it locally:
+Then simply open `index.html` in your browser — or serve it locally:
 
 ```bash
 # Python (built-in)
@@ -140,12 +136,10 @@ FocusBoard is a fully installable Progressive Web App.
 
 ```
 focusboard/
-├── focusboard.html     ← Entire app (single self-contained file)
+├── index.html     ← Entire app (single self-contained file)
 ├── README.md           ← You are here
 └── screenshots/        ← Add your screenshots here (optional)
     ├── landing.png
-    ├── board.png
-    └── focus.png
 ```
 
 > The entire app lives in **one HTML file** — no dependencies to install, no build step, no server required.
@@ -271,15 +265,6 @@ Just give credit where it's due 🙏
 
 ---
 
-## 🙏 Acknowledgements
-
-- [Playfair Display](https://fonts.google.com/specimen/Playfair+Display) — elegant serif font
-- [DM Sans](https://fonts.google.com/specimen/DM+Sans) — clean UI font
-- [Font Awesome](https://fontawesome.com/) — icon library
-- Inspired by the Pomodoro Technique® by Francesco Cirillo
-
----
-
 <div align="center">
 
 Made with ❤️ and ☕ — stay focused, ship great things.
@@ -290,8 +275,8 @@ Made with ❤️ and ☕ — stay focused, ship great things.
 
 <br/>
 
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME/focusboard?style=social" alt="GitHub Stars" />
+<img src="https://img.shields.io/github/stars/rehan-qx/focusboard?style=social" alt="GitHub Stars" />
 &nbsp;
-<img src="https://img.shields.io/github/forks/YOUR_USERNAME/focusboard?style=social" alt="GitHub Forks" />
+<img src="https://img.shields.io/github/forks/rehan-qx/focusboard?style=social" alt="GitHub Forks" />
 
 </div>
